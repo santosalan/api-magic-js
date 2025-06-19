@@ -1,0 +1,17 @@
+{
+  "name": "api-magic",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "description": "A library to simplify integration with REST APIs in JavaScript projects.",
+  "keywords": ["api", "magic", "apimagic", "santosalan", "alansantos", "rest", "axios", "integration"],
+  "author": "Alan Santos",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/santosalan/api-magic-js.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.0"
+  }
+}

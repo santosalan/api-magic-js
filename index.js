@@ -1,0 +1,1 @@
+export { useApiMagic } from './composables/useApiMagic.js';
